@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Northwind.Business",
+    "\\Northwind.Business\\Concrete",
+    "\\Northwind.Business\\ValidationRules",
+    "\\Northwind.Business\\ValidationRules\\FluentValidation"
+  ],
+  "SelectedNode": "\\Northwind.Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
+  "PreviewInSolutionExplorer": false
+}
